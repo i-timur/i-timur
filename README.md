@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋</h1>
-<h3 align="center">I'm A Frontend Developer</h3>
+<h3 align="center">Reactangular Developer: Mastering the Frontend with React and Angular</h3>
 
 - 🖥️ I’m currently learning **Rust**
 
@@ -18,11 +18,8 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
     </a>
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="rust" width="40" height="40"/>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
