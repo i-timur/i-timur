@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋</h1>
-<h3 align="center">Reactangular Developer: Mastering the Frontend with React and Angular</h3>
+<h3 align="center">I'm Reactangular Developer: Mastering the Frontend with React and Angular</h3>
 
 - 🖥️ I’m currently learning **Rust**
 
