@@ -1,7 +1,8 @@
 <h1 align="center">Hi There 👋</h1>
 <h3 align="center">I'm Frontend Developer: Mastering the Frontend with Angular and React</h3>
 
-- 🖥️ I’m currently learning **Rust**
+- 💻 I’m currently learning *Rust*
+- 💽 I'm passionate about *Data Science*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-timur&show_icons=true&locale=en&layout=compact" alt="Timur Ibragimov" />
