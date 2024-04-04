@@ -2,7 +2,8 @@
 <h3 align="center">I'm Frontend Developer: Mastering the Frontend with Angular and React</h3>
 
 - 💻 I’m currently learning *Rust*
-- 💽 I'm passionate about *Data Science*
+- 👀 I'm passionate about *Data Science*
+- 📠 Get in touch with me by (email)[mailto:i.timur0701@gmail.com] or (telegram me)[https://t.me/i_timur]
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-timur&show_icons=true&locale=en&layout=compact" alt="Timur Ibragimov" />
