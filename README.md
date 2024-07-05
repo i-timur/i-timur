@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 <h3 align="center">I'm Frontend Developer: Building frontends using Angular</h3>
 
-- 💻 I’m currently learning *Rust*
+- 💻 I’m currently learning *GLSL*
 - 👀 I'm passionate about *Data Science*
 - 📠 Get in touch with me by [email](mailto:i.timur0701@gmail.com)
 
