@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋</h1>
-<h3 align="center">I'm Frontend Developer: Building frontends using Angular</h3>
+<h3 align="center">I'm Timur Ibragimov and I build frontends using Angular</h3>
 
 <h3 align="left">Feel free to contact me:</h3>
 <p align="left">
